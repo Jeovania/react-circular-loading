@@ -40,11 +40,11 @@ Custom sizes of the spinner. They are:
 * small
 * large
 
-## invese [String | Optional]
+### invese [String | Optional]
 
 If set to inverse="inverse" change the spinner to it's invervese color. Default: #ffffff
 
-## wrapperClass [String | Optional]
+### wrapperClass [String | Optional]
 
 Adds a class to the spinner's parent
 
